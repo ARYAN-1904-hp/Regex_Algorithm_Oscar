@@ -1,0 +1,11 @@
+# Generated data -- contains PHI (member names, claim numbers, DOBs). Never commit.
+output/
+knowledge_base.json
+*.zip
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
